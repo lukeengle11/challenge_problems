@@ -1,2 +1,2 @@
 # challenge_problems
-repo for challenge problems
+Repo for fun practice challenge problems
