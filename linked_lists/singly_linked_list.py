@@ -17,6 +17,8 @@ class LinkedList:
         self.size = 0
 
     def add(self, value: int) -> None:
+        """ Add a single element to the end of the list 
+            Note - this does not look for duplicates """
         new_node = Node(value)
         if not self.head:
             self.head = new_node
