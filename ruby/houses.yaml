@@ -1,0 +1,25 @@
+Model 1:
+  size: 2700
+  bedrooms: 4
+  bathrooms: 3
+  price: 700000
+Model 2:
+  size: 3200
+  bedrooms: 5
+  bathrooms: 3.5
+  price: 825000
+Model 3:
+  size: 3700
+  bedrooms: 5
+  bathrooms: 4
+  price: 950000
+Model 4:
+  size: 4600
+  bedrooms: 6
+  bathrooms: 5
+  price: 1250000
+Model 5:
+  size: 5600
+  bedrooms: 7
+  bathrooms: 8
+  price: 1500000

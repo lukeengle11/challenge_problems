@@ -1,0 +1,14 @@
+John Doe:
+  salary: 160000
+  savings: 200000
+  house:
+    bedrooms: 4
+    bathrooms: 3
+    size: 3000
+Steve Johnson:
+  salary: 400000
+  savings: 1000000
+  house:
+    bedrooms: 6
+    bathrooms: 7
+    size: 5500

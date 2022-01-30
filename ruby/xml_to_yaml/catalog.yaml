@@ -1,0 +1,55 @@
+---
+products:
+- description: Cardigan Sweater
+  product_image: cardigan.jpg
+  product_items:
+  - gender: Men's
+    item_number: QWZ5671
+    price: '39.95'
+    sizes:
+    - description: Medium
+      color_swatches:
+      - description: Red
+        image: red_cardigan.jpg
+      - description: Burgundy
+        image: burgundy_cardigan.jpg
+    - description: Large
+      color_swatches:
+      - description: Red
+        image: red_cardigan.jpg
+      - description: Burgundy
+        image: burgundy_cardigan.jpg
+  - gender: Women's
+    item_number: RRX9856
+    price: '42.50'
+    sizes:
+    - description: Small
+      color_swatches:
+      - description: Red
+        image: red_cardigan.jpg
+      - description: Navy
+        image: navy_cardigan.jpg
+      - description: Burgundy
+        image: burgundy_cardigan.jpg
+    - description: Medium
+      color_swatches:
+      - description: Red
+        image: red_cardigan.jpg
+      - description: Navy
+        image: navy_cardigan.jpg
+      - description: Burgundy
+        image: burgundy_cardigan.jpg
+      - description: Black
+        image: black_cardigan.jpg
+    - description: Large
+      color_swatches:
+      - description: Navy
+        image: navy_cardigan.jpg
+      - description: Black
+        image: black_cardigan.jpg
+    - description: Extra Large
+      color_swatches:
+      - description: Burgundy
+        image: burgundy_cardigan.jpg
+      - description: Black
+        image: black_cardigan.jpg
